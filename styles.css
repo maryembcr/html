@@ -1,0 +1,12 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+li{
+    display: inline;
+}
